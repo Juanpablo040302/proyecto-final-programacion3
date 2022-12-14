@@ -1,9 +1,10 @@
-# SPACESHIP-VIDEO-GAME
+# SPACESHIP-GAME
 
-This is a spaceship video game built in Javascript and Canvas.
 
 **INTRUCTIONS:**
 
-1.- Use up, down, left and right arrows from keyboard to move spaceship or click on left and right buttons
-
-2.- Shooting could be done by either pressing the "space button" from keyboard or by clicking on the "Fire Missile" button.
+1.- proyecto final de programacion 3 kelyn tejada recuerde usar las teclas de su teclado.
+<-- para moverse asia la isquierda
+--> para moverse a la derecha
+y la flecha asia arriba y asia abajo para moverse eb sus respectivas direcciones
+y la barra de espacio es para disparar proyectiles
